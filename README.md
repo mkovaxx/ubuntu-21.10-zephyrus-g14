@@ -1,4 +1,4 @@
-# ubuntu-zephyrus-g14
+# ubuntu-21.10-zephyrus-g14
 
 Ubuntu 21.10 installation on ROG Zephyrus G14
 
